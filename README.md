@@ -22,4 +22,4 @@ The purpose of this assignment is to build a command-line application that manag
 ## Images
 
 ## Deployed Link
-
+ - https://hasanike.github.io/12-Employee-Tracker/
