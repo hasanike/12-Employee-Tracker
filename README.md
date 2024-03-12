@@ -18,7 +18,7 @@ The purpose of this assignment is to build a command-line application that manag
 - Node.js
 - Inquirer
 - MySQL
-- 
+  
 ## Images
 
 ## Deployed Link
