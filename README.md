@@ -1,6 +1,7 @@
 # Employee-Tracker
 
 ## Description 
+The purpose of this assignment is to build a command-line application that manages a company's employee database. 
 
 ## Table of Contents 
 - [Employee-Tracker](#employee-tracker)
@@ -19,5 +20,6 @@
 - MySQL
 - 
 ## Images
+
 ## Deployed Link
 
